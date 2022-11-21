@@ -11,7 +11,7 @@ public class Customer {
 	private LocalDate dateOfBirth;
 	private String nationaltyId;
 	
-	public Customer(int i, String string, String string2, LocalDate of, String string3) {
+	public Customer(int id, String string, String string2, LocalDate of, String string3) {
 		
 	}
 	public int getId() {
